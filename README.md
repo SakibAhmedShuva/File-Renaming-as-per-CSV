@@ -1,4 +1,4 @@
-# CSV-Based File Renaming Utility
+# File-Renaming-as-per-CSV
 
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -30,8 +30,8 @@ This tool allows you to rename hundreds or thousands of files efficiently by pro
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/csv-file-renamer.git
-   cd csv-file-renamer
+   git clone https://github.com/SakibAhmedShuva/File-Renaming-as-per-CSV.git
+   cd File-Renaming-as-per-CSV
    ```
 
 2. **Install dependencies**
@@ -50,7 +50,7 @@ This tool allows you to rename hundreds or thousands of files efficiently by pro
 
 2. **Configure and run the script**:
    ```python
-   from renaming import quick_rename
+   # Load the Jupyter notebook and run the cells, then use:
    
    # Define paths
    file_directory = "/path/to/your/files"
@@ -188,3 +188,21 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Support
+
+If you encounter any issues or have questions:
+
+- 🐛 [Report bugs](https://github.com/SakibAhmedShuva/File-Renaming-as-per-CSV/issues)
+- 💡 [Request features](https://github.com/SakibAhmedShuva/File-Renaming-as-per-CSV/issues)
+- 📧 Contact: your.email@example.com
+
+## 🙏 Acknowledgments
+
+- Built with Python and pandas
+- Inspired by the need for safe, bulk file operations
+- Community feedback and contributions
+
+---
+
+⭐ **Star this repository if you find it helpful!**
